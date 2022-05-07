@@ -15,6 +15,10 @@
   </div>
   <h4 align="center">Top langs :tongue:</h4>
 <h2>⚡ Technologies</h2>
+
+<p align="center"><img src="https://camo.githubusercontent.com/b89bd9bf7b9de39f995f868b7e0f300998bd4cebcd9f49cb2bc6ad7ba5b11eed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446172742d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d44617274" alt="AnhellO :: Top Langs" /></p>
+
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilura&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 <!---
