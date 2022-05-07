@@ -19,7 +19,9 @@
 <div align="center">
 <p><img src="https://camo.githubusercontent.com/b89bd9bf7b9de39f995f868b7e0f300998bd4cebcd9f49cb2bc6ad7ba5b11eed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446172742d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d44617274" alt="AnhellO :: Top Langs" /></p>
 
-<p align="center"><img src="https://camo.githubusercontent.com/cec92673ea713fa89ba2ae2033daf5851f6f39393ff5b93231aa707d424638d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73" alt="AnhellO :: Top Langs" /></p>
+<p><img src="https://camo.githubusercontent.com/cec92673ea713fa89ba2ae2033daf5851f6f39393ff5b93231aa707d424638d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73" alt="AnhellO :: Top Langs" /></p>
+ 
+<p><img src="https://camo.githubusercontent.com/5ab7350f862f02c8f081b34d1ac1a02275ee7a793dc65f6c04ee56208dfb1656/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d466c75747465722d7465616c3f7374796c653d666c61742d737175617265266c6f676f3d466c7574746572" alt="AnhellO :: Top Langs" /></p>
 </div>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilura&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
